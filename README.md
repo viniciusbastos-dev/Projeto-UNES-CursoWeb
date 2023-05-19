@@ -1,2 +1,2 @@
-# Projeto-UNES-Curso-Web
-Primeiro projeto do curso Desenvolvimento Web
+# Projeto-UNES
+Site criado durante curso de Desenvolvimento Web utilizando apenas html com tabelas para estruturar o site
